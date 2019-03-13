@@ -1,0 +1,109 @@
+{
+  "TV SERIES QUIZ": {
+    "image": "/images/events/quiz.png",
+    "link":"",
+    "description":"Love binge watching TV shows? Then this one is surely for you...answer and win! Teknothon'19 presents 'TV SERIES QUIZ' where participants have to answer questions from tv shows to win exciting prizes.",
+    "type": "SOLO",
+    "cost": "60₹",
+    "datetime": "15.03.19 11:00AM - 12:00PM"
+  },
+
+  "BRAND TAMBOLA": {
+    "image": "/images/events/brandtambola.jpg",
+    "link":"",
+    "description":"",
+    "type": "SOLO",
+    "cost": "60₹",
+    "datetime": "15.03.19 11:30AM - 12:30PM"
+  },
+
+  "LAN GAMING": {
+    "image": "/images/events/multiplayer.jpg",
+    "link":"",
+    "description":"Hushed voices, silent footsteps, reload of a gun, reviving of engines, a gush of nitrous, a punch...if all this is music to your ears then you belong here at the gaming arcade that is for the maniacs who just can’t live in reality.introducing lan gaming arcade at teknothon'19 with games that are and will always be at the heart of multiplayer gaming: cs, nfs, tekken and the mighty mini-militia. Any unfair means (using developer cheats, modded games) will result in disqualification and no claim for refund will be entertained.",
+    "type": "SOLO",
+    "cost": "100₹",
+    "datetime": "15.03.19 12:30PM - 02:30PM"
+  },
+
+  "CHESS MATE": {
+    "image": "/images/events/chess.jpg",
+    "link":"",
+    "description":"Teknothon chess championship.",
+    "type": "SOLO",
+    "cost": "60₹",
+    "datetime": "15.03.19 02:00PM - 03:00PM"
+  },
+
+  "TAMBOLA": {
+    "image": "/images/events/tambola.jpg",
+    "link":"",
+    "description":"",
+    "type": "SOLO",
+    "cost": "60₹",
+    "datetime": "15.03.19 02:30PM - 03:30PM"
+  },
+
+  "HUNTMANIA - TREASURE HUNT": {
+    "image": "/images/events/treasure.png",
+    "link":"",
+    "description":"Teknothon treasure hunting...",
+    "type": "TEAM (max 4)",
+    "cost": "100₹",
+    "datetime": "15.03.19 12:00PM - 02:00PM"
+  },
+
+  "Game of Codes": {
+    "image": "/images/events/coding.jpg",
+    "link":"",
+    "description":"Do you have what it takes to survive a coding Marathon? Then we have just the right thing for you... Teknothon'19 presents 'Game of Codes' where participants can show their ability to solve some real problems using C/C++/Java",
+    "type": "SOLO",
+    "cost": "60₹",
+    "datetime": "15.03.19 12:00PM - 02:00PM"
+  },
+
+  "GULLY CRICKET - CRICKET TOURNAMENT": {
+    "image": "/images/events/cricket.jpg",
+    "link":"",
+    "description":"Gully cricket tournament at jamia millia islamia teams of 7 players play against each other.",
+    "type": "TEAMS OF 7",
+    "cost": "7 X 50₹",
+    "datetime": "15.03.19 12:00PM - 02:00PM"
+  },
+
+  "SARGAM - SINGING COMPETITION": {
+    "image": "/images/events/singing.jpg",
+    "link":"",
+    "description":"If you can create musical magic purely with your voice, head over to show off the melody that you've discovered!",
+    "type": "SOLO/DUET/GROUP",
+    "cost": "100₹/150₹/200₹",
+    "datetime": "16.03.19 10:00AM - 12:00PM"
+  },
+
+  "STAND-UP": {
+    "image": "/images/events/standup.jpg",
+    "link":"",
+    "description":"Are you a budding comedian looking for a stage? In comedy, sometimes you kill and sometimes you die. Come and take your chances",
+    "type": "SOLO",
+    "cost": "50₹",
+    "datetime": "16.03.19 12:00PM - 01:00PM"
+  },
+
+  "FASHION SHOW": {
+    "image": "/images/events/fashion.jpg",
+    "link":"",
+    "description":"\"If you have the attitude, we have the ramp.\" If you can showcase your theme purely with your presence and the way you carry yourself, join us at one of the most coveted fashion events ever.",
+    "type": "SOLO",
+    "cost": "100₹",
+    "datetime": "16.03.19 01:00PM - 02:00PM"
+  },
+
+  "FEEL THE BEAT!": {
+    "image": "/images/events/dancing.jpg",
+    "link":"",
+    "description":"Let your feet move and your body flow to the insane rhythm of beats.",
+    "type": "SOLO/DUET/GROUP",
+    "cost": "100₹/150₹/200₹",
+    "datetime": "16.03.19 02:00PM - 03:30PM"
+  }
+}

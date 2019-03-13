@@ -1,0 +1,480 @@
+<?php
+$page_title = "Teknothon19 - Partners";
+$body_class = "blog-page";
+include("../header.php")
+?>
+
+
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="entry-header">
+                        <h2 class="entry-title">Events</h2>
+
+                        <ul class="breadcrumbs flex align-items-center">
+                            <li><a href="#">Home</a></li>
+                            <li>events</li>
+                        </ul><!-- .breadcrumbs -->
+                    </div><!-- entry-header -->
+                </div><!-- col-12 -->
+            </div><!-- row -->
+        </div><!-- container -->
+    </div><!-- page-header -->
+
+    <div class="main-content">
+        <div class="container">
+            <div class="last-news">
+                <div class="entry-header">
+                    <div class="entry-title">
+                        <p>Following are the Events that will be Organized at</p>
+                        <h2>Teknothon 2019.</h2>
+                    </div><!-- entry-title -->
+                </div>
+
+                <div class="row blog-list-page">
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/quiz.png" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>QUIZICAL</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">Event Type: 2 PERSONS/GROUP</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 2 X 50&#8377</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>U think u are techno-maniac? Then this one is surely for you...answer and win! Teknothon'19 presents 'quizzical' where participants can form a team of 2, compete to stand a chance to win exciting prizes.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/coding.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>Game of Codes</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">Event Type : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">Cost : 50&#8377</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Do you have what it takes to survive a coding Marathon?
+                                        Then we have just the right thing for you...
+                                        Teknothon'19 presents 'Game of Codes' where participants can show their ability to solve some real problems using C/C++/Java</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/multiplayer.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>MULTIPLAYER GAMING</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 50&#8377</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Hushed voices, silent footsteps, reload of a gun, reviving of engines, a gush of nitrous, a punch...if all this is music to your ears then you belong here at the gaming arcade that is for the maniacs who just can’t live in reality.introducing lan gaming arcade at teknothon'19 with games that are and will always be at the heart of multiplayer gaming: cs, nfs, tekken and the mighty mini-militia.
+                                        <i class="fa fa-exclamation-triangle"></i>Any unfair means (using developer cheats, modded games) will result in disqualification and no claim for refund will be entertained.
+                                    </p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/bug.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>BUGVILLA</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 100&#8377</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>FIND BUGS IN A PROGRAM, WIN EXCITING PRIIZES.. EASY?</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/webdesign.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>DOODLE - WEBSITE DESIGN COMPETITION</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 100&#8377</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Are you ready for a web design challenge? Win exciting prizes. Bring ur own laptops, mouse etc.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/workshop.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>HANDS-ON WORKSHOP SESSIONS</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : WORKSHOP</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 50₹/100₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>A HANDS ON WORKSHOP ON :<br>
+                                        1 - LINUX AND IRC<br>
+
+                                        2 - GIT AND GITHUB</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/dancing.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>FEEL THE BEAT!</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO & GROUP</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 100₹/500₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Let your feet move and your body flow to the insane rhythm of beats.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/fashion.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>EMBER - FASHION SHOW</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 200₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>"If you have the attitude, we have the ramp."
+                                        If you can showcase your theme purely with your presence and the way you carry yourself, join us at one of the most coveted fashion events ever.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/singing.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>SARGAM - SINGING COMPETITION</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 50₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>If you can create musical magic purely with your voice, head over to show off the melody that you've discovered!</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/treasure.png" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>HUNTMANIA - TREASURE HUNT</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : </a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : </a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Teknothon treasure hunting...</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/photography.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>PIXELS - PHOTOGRAPHY</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : </a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 50₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>An online photography competition
+                                        Theme : black and white</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/cricket.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>GULLY CRICKET - CRICKET TOURNAMENT</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">EVENT TYPE : TEAMS OF 7</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : 7X50₹</a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Gully cricket tournament at jamia millia islamia
+                                        teams of 7 players play against each other.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/couch.png" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>COUCH POTATO TOURNAMENT</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">Event Type :  </a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : </a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Quisque at erat eu libero consequat tempus. Quisque mole stie convallis tempus. Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/facepaint.png" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>BRUSH STROKES - FACE PAINTING COMPETITION</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">Event Type : </a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : </a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Teknothon face painting challenge</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="/images/events/chess.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">15.03.19</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>CHESS MATE</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">Event Type : SOLO</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">COST : </a></span>
+                                </div><!-- entry-meta -->
+
+                                <div class="entry-description">
+                                    <p>Teknothon chess championship.</p>
+                                </div><!-- entry-description -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 load-more flex justify-content-center">
+                        <input type="submit" name="" value="Load More" class="btn">
+                    </div>
+                </div><!-- blog-list-page -->
+            </div><!-- last-news -->
+        </div><!-- container -->
+    </div><!-- main-content -->
+
+    <?php
+    readfile("../footer.html");
+    ?>
+
